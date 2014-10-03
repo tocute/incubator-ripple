@@ -1,7 +1,7 @@
 {
-    "version": "",
+    "version": "0.9.25",
     "manifest_version": 2,
-    "name": "Ripple Emulator (Beta)",
+    "name": "Ripple Emulator (Bill)",
     "background": {
         "page": "views/background.html"
     },
